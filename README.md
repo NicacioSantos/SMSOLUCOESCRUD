@@ -39,7 +39,7 @@ Além dos serviços pedidos no diagrama, criar um endpoint específico para enti
 </ul>
   
  
-## Exemplificação da requisição específicaçâo
+## Exemplificação da requisição específicação
 <p align="left">
 
   Segue abaixo 03(três) imagens demonstrando a requisição do endpoint específico denominado de READSALE, presente na terceira imagem, em que é responsável para buscar todas vendas e informações, bem como o prazo de entrega de 10 dias a partir da compra no formato solicitado "dd/mm/yyyy".
